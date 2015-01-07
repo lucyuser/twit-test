@@ -1,0 +1,7 @@
+img.side-image {
+  min-height: 200px;
+  max-height: 400px;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
