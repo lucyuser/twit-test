@@ -3,7 +3,7 @@ var HttpClient = require('https');
 exports.getTweetsNearWhiteHouse = function(query, callback) {
   exports.api.search ({
     'query': query,
-    'geocode': '42.34832979999999,-71.1697255,1mi',
+    'geocode': 'asdfa',
   }, callback);
 }
  
